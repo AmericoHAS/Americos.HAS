@@ -1,4 +1,4 @@
-# Olá, eu sou Haward Antunny da Silva Américo 👋
+# Olá, eu sou Haward Antunny 👋
 
 Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) e **professor de Matemática** com experiência em análise estatística aplicada, modelagem matemática e projetos educacionais.
 
