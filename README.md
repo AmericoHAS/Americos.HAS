@@ -27,10 +27,11 @@ Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) 
 ---
 
 ## 📫 Contato
-- Email: haward.americo@email.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- Email: antunnyamerico@gmail.com
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/haward-antunny-6175ba196/)
 - GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-
+- Lattes: (http://lattes.cnpq.br/0642206952218832)
+- orcID: (https://orcid.org/0009-0009-2018-973X)
 ---
 
 **Vamos construir ciência e educação juntos! 🚀**
